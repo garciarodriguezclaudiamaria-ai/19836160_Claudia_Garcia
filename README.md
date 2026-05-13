@@ -1,2 +1,2 @@
-# 19836160_Claudia_Garcia
-En este repositorio guardare mis practicas de python
+# 20115241_Marisol_Garcia
+En este repositorio guardo mis prácticas de Python
